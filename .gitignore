@@ -1,0 +1,13 @@
+# Powers of Tau files
+*.ptau
+
+# Groth16 keys
+*.zkey
+
+# Generated proof files
+proof.json
+public.json
+verification_key.json
+
+# circom libraries
+node_modules/
