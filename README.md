@@ -73,3 +73,12 @@ node --version
 npm --version
 snarkjs --version
 ```
+
+## Running the Project Code
+
+- Enter the correct paths in `config.py`
+- Run `main.py`.
+
+This will create a new ZKP setup, followed by ZKP proof generation and verification. 
+If everything is good, you will see no error messages.
+
